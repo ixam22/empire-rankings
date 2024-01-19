@@ -9,8 +9,8 @@ const app = Vue.createApp({
             players: [],
             current_language: 'de',
             current_server_header: 'EmpireEx_2',
-            current_event_name: '',
-            current_category_index: 0,
+            current_event_name: 'playerMight',
+            current_category_index: 6,
             current_search: 1,
             last_rank: 1,
             alliance_ranking: false
